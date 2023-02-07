@@ -1,0 +1,10 @@
+.photo {
+    display: grid;
+
+}
+
+.form {
+    display: grid;
+    grid-template-rows: 50 px 50 px;
+    gap: 50 px;
+}
